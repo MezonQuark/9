@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc9FBf063ED87F75eF41cE04b0AC39Ba83d3ed305",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xc9fbf063ed87f75ef41ce04b0ac39ba83d3ed305",
+  "NETWORK": {
+    "NAME": "Avalanche FUJI C-Chain Testnet",
+    "SYMBOL": "Avax",
+    "ID": 43113
+  },
+  "NFT_NAME": "Avalanche Neko",
+  "SYMBOL": "NEKOT",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Kalao",
+  "MARKETPLACE_LINK": "https://beta.kalao.io/collection/0xc9fbf063ed87f75ef41ce04b0ac39ba83d3ed305",
+  "SHOW_BACKGROUND": true
+}
